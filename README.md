@@ -17,4 +17,4 @@ Contribution
 If you have any suggestions, improvements, or bug fixes for any of the projects, feel free to contribute by submitting a pull request. Contributions are welcome and appreciated!
 
 Contact
-If you have any questions or would like to get in touch, you can reach me at your-email@example.com.
+If you have any questions or would like to get in touch, you can reach me at vinayasri.mandalapu@gmail.com.
